@@ -1,0 +1,13 @@
+[17-Aug-2024 06:59:48 UTC] PHP Warning:  Undefined variable $tags in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-content\themes\kuroneko-hair\single.php on line 34
+[25-Aug-2024 07:13:53 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:13:53 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:14:39 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:14:39 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:14:58 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:15:06 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:15:14 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:15:16 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:15:19 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:15:20 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:15:33 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
+[25-Aug-2024 07:16:01 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in C:\Users\kinar\Local Sites\kuroneko-hair\app\public\wp-includes\class-wp-theme-json.php on line 2068
